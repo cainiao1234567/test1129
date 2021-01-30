@@ -465,9 +465,11 @@ df.cumsum()  #累加和
 
 df.describe()   #数据汇总
 
+<img src="D:\data_learn\pandas概括.png" alt="pandas概括" style="zoom:60%;" />
+
  
 
-
+<img src="D:\data_learn\数据读取与操作.png" alt="数据读取与操作" style="zoom:60%;" />
 
 
 
